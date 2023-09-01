@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-auto-adjust-pasted-imagesize",
+	"name": "Adjust Pasted Imagesize",
+	"version": "0.0.0",
+	"minAppVersion": "1.3.7",
+	"description": "This plugin allows you to adjust display size of pasted image automatically.",
+	"author": "Hajime Nagisa",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
