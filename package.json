@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-auto-adjust-pasted-imagesize",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "This plugin allows you to adjust display size of pasted image automatically.",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
